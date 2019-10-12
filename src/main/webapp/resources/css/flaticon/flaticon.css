@@ -1,0 +1,143 @@
+@font-face {
+	font-family: "Flaticon";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype"),
+	url("flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+font-family: Flaticon;
+font-size: 26px;
+font-style: normal;
+
+}.flaticon-bag2:before {
+	content: "\e000";
+}
+.flaticon-bag21:before {
+	content: "\e001";
+}
+.flaticon-bag22:before {
+	content: "\e002";
+}
+.flaticon-basket17:before {
+	content: "\e003";
+}
+.flaticon-basket4:before {
+	content: "\e004";
+}
+.flaticon-cart1:before {
+	content: "\e005";
+}
+.flaticon-cart2:before {
+	content: "\e006";
+}
+.flaticon-cart4:before {
+	content: "\e007";
+}
+.flaticon-cupcake2:before {
+	content: "\e008";
+}
+.flaticon-ecommerce7:before {
+	content: "\e009";
+}
+.flaticon-grocery6:before {
+	content: "\e00a";
+}
+.flaticon-picnic:before {
+	content: "\e00b";
+}
+.flaticon-shopping10:before {
+	content: "\e00c";
+}
+.flaticon-shopping101:before {
+	content: "\e00d";
+}
+.flaticon-shopping11:before {
+	content: "\e00e";
+}
+.flaticon-shopping111:before {
+	content: "\e00f";
+}
+.flaticon-shopping122:before {
+	content: "\e010";
+}
+.flaticon-shopping140:before {
+	content: "\e011";
+}
+.flaticon-shopping143:before {
+	content: "\e012";
+}
+.flaticon-shopping20:before {
+	content: "\e013";
+}
+.flaticon-shopping223:before {
+	content: "\e014";
+}
+.flaticon-shopping31:before {
+	content: "\e015";
+}
+.flaticon-shopping38:before {
+	content: "\e016";
+}
+.flaticon-shopping58:before {
+	content: "\e017";
+}
+.flaticon-shopping63:before {
+	content: "\e018";
+}
+.flaticon-shopping64:before {
+	content: "\e019";
+}
+.flaticon-shopping66:before {
+	content: "\e01a";
+}
+.flaticon-shopping69:before {
+	content: "\e01b";
+}
+.flaticon-shopping82:before {
+	content: "\e01c";
+}
+.flaticon-stock1:before {
+	content: "\e01d";
+}
+
+
+.flaticon-basket17:before,.flaticon-basket4:before,.flaticon-ecommerce7:before,.flaticon-grocery6:before,
+.flaticon-shopping101:before,.flaticon-shopping31:before,.flaticon-shopping38:before,.flaticon-shopping58:before,
+.flaticon-shopping63:before,.flaticon-shopping64:before,.flaticon-shopping69:before{font-size:36px}
+
+.flaticon-shopping10:before{font-size:39px}
+
+.flaticon-shopping66:before,.flaticon-shopping82:before{font-size:32px}
+
+.flaticon-shopping11:before,.flaticon-shopping111:before,.flaticon-shopping122:before,.flaticon-shopping20:before{font-size:42px}
+
+.flaticon-shopping140:before,.flaticon-shopping143:before,.flaticon-stock1:before{font-size:50px}
+
+
+.header_bag span.cc-picnic{right:18px;top:8px;}
+.header_bag span.cc-shopping31{top:-8px;}
+.header_bag span.cc-basket4{top:-10px;right:6px;}
+.header_bag span.cc-shopping140{top:-5px;right:8px;}
+.header_bag span.cc-shopping69{right:25px;top:-1px;}
+.header_bag span.cc-shopping38{right:18px;top:7px;font-size:11px;}
+.header_bag span.cc-shopping58{right:19px;top:7px;font-size:11px;}
+.header_bag span.cc-shopping63{right:18px;top:10px;font-size:11px;}
+.header_bag span.cc-shopping64{right:16px;top:2px;font-size:10px;}
+.header_bag span.cc-stock1{right:27px;top:7px;font-size:11px;}
+
+.header_bag span.cc-shopping38,.header_bag span.cc-shopping58,
+.header_bag span.cc-shopping63,.header_bag span.cc-shopping64,
+.header_bag span.cc-stock1,.header_bag span.cc-picnic,.header_bag span.cc-shopping69{background:none !important}
+
+
+
+
+
+
+
+
